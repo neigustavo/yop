@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.yop"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "microservice",
+    "baseName": "yop",
+    "packageName": "br.com.yop",
+    "packageFolder": "br/com/yop",
+    "serverPort": "8888",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yjk3ZDE1NWI0MDVmZmFlNzk4OGIwZTkxNTRiYzBmNmVhOTczOGQ4YTQyZGQ3NGE0M2Q5NjUzOWE0YmZkMzBmOTE4OGM2ZmI0NThjYzE4YTc5YzMzNDI0ZDI1NjIzYTZlMmJkZmFjZTg3Yzk1YTg2OTYyMmIzNDhiNGMwZDcyMWM=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
